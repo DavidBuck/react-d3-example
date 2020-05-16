@@ -16,4 +16,3 @@ Using React version - 16.13.1.
 - [victory](https://github.com/FormidableLabs/victory)
 - [nivo](https://github.com/plouc/nivo)
 - [Tailwind](https://tailwindcss.com)
-- [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss)
