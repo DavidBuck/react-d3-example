@@ -1,8 +1,7 @@
-import React from "react"
 import { ResponsiveBar } from "@nivo/bar"
 import sensorData from "./data"
 
-const chart = data => (
+const chart = (data) => (
   <ResponsiveBar
     data={data}
     indexBy="name"
