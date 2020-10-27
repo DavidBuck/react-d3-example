@@ -1,4 +1,3 @@
-import React from "react"
 import { VictoryChart, VictoryBar } from "victory"
 import sensorData from "./data"
 
